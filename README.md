@@ -4,7 +4,7 @@
 The purpose of this analysis is to use different techniques to evaluate models and unbalanced classes within credit risk.
 
 ## Results
--The RandomOverSampler produced a balanced accuracy score of 0.646, a precision score of 0.99 and a recall score of 0.58.
+--The RandomOverSampler produced a balanced accuracy score of 0.646, a precision score of 0.99 and a recall score of 0.58.
 -The Smote produced a balanced accuracy score of 0.658, a precision score of 0.99 and a recall score of 0.68.
 -The ClusterCentroids produced a balanced accuracy score of 0.544, a precision score of 0.99 and a recall score of 0.40.
 -The Smoteenn produced a balanced accuracy score of 0.648, a precision score of 0.99 and a recall score of 0.57.
