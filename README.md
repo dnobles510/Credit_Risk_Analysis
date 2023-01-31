@@ -12,4 +12,4 @@ The purpose of this analysis is to use different techniques to evaluate models a
 -The EasyEnsembleClassifier produced a balanced accuracy score of 0.915, a precision score of 0.99 and a recall score of 0.90.
 
 ## Summary
-In conclusion, each model gave very accurate results. The EasyEnsembleClassifier model produced the highest accuracy score as well as the highest recall score, which means that they 
+In conclusion, each model gave very accurate results. The EasyEnsembleClassifier model would be the model that I would suggest using in the future because it produced the highest accuracy score as well as the highest recall score, which means that most of their predictions were accurate. I would not use the Smoteenn model because their predictions were too split in half, causing the low balanced accuracy score and recall score. 
